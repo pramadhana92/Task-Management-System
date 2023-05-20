@@ -1,0 +1,5 @@
+env/*
+*.pyc
+*.sqlite3
+task_management/task/migrations/*
+key.py
